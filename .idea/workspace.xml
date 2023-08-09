@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0729f3d9-0b71-42fa-aa61-14ea365363ac" name="Changes" comment="" />
+    <list default="true" id="0729f3d9-0b71-42fa-aa61-14ea365363ac" name="Changes" comment="新API接口开放平台">
+      <change afterPath="$PROJECT_DIR$/wuOpenAPI-openAPI/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wuOpenAPI-openAPI/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/wuOpenAPI-openAPI/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -252,12 +256,35 @@
       <workItem from="1691484602554" duration="2147000" />
       <workItem from="1691491240849" duration="10315000" />
       <workItem from="1691546357619" duration="12193000" />
-      <workItem from="1691578911111" duration="679000" />
+      <workItem from="1691578911111" duration="2127000" />
     </task>
+    <task id="LOCAL-00001" summary="新API接口开放平台">
+      <created>1691579693463</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691579693463</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="新API接口开放平台" />
+    <option name="LAST_COMMIT_MESSAGE" value="新API接口开放平台" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
