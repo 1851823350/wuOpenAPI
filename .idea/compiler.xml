@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="USE_RELEASE_OPTION" value="false" />
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="wuOpenAPI" />
+        <module name="wuOpenAPI-gateway" />
+        <module name="wuOpenAPI-client-sdk" />
+        <module name="wuOpenAPI-Interface" />
+        <module name="springboot-init" />
+        <module name="wuOpenAPI-backend" />
+        <module name="wuOpenAPI-common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="wuOpenAPI-Gateway" target="1.8" />
+      <module name="wuOpenAPI-openApi" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="wuOpenAPI-Gateway" options="-parameters" />
+      <module name="wuOpenAPI-Interface" options="-parameters" />
+      <module name="wuOpenAPI-backend" options="-parameters" />
+      <module name="wuOpenAPI-client-sdk" options="-parameters" />
+      <module name="wuOpenAPI-common" options="-parameters" />
+      <module name="wuOpenAPI-gateway" options="-parameters" />
+      <module name="wuOpenAPI-openAPI" options="" />
+      <module name="wuOpenAPI-openApi" options="-parameters" />
+    </option>
+  </component>
+</project>

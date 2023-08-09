@@ -1,0 +1,8 @@
+server:
+  port: 8123
+  servlet:
+    context-path: /api
+wj:
+  client:
+    access-key: wjTest
+    secret-key: wjTest

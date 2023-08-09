@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0729f3d9-0b71-42fa-aa61-14ea365363ac" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/wuOpenApi-Interface">
+      <ProjectState>
+        <option name="isInclusion" value="true" />
+      </ProjectState>
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2T6WfrSdKSg4CNuIOBIWtllpH1T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/ProgramData/XingQiuProgramData/API开放平台/wuOpenAPI-backend/wuOpenAPI-openAPI/wuOpenAPI-common/src/main/java/com/atwj/apicommon/exception&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.ignored.files&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;9eb68b6932f6aeeaffb57432fb7dfc4a&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ProgramData\XingQiuProgramData\API开放平台\wuOpenAPI-backend\wuOpenAPI-openAPI\wuOpenAPI-common\src\main\java\com\atwj\apicommon\exception" />
+      <recent name="D:\ProgramData\XingQiuProgramData\API开放平台\wuOpenAPI-backend\wuOpenAPI-openAPI\wuOpenAPI-client-sdk\src\main\java\com\atwj\wuopenapiclientsdk\client" />
+      <recent name="D:\ProgramData\XingQiuProgramData\API开放平台\wuOpenAPI-backend\wuOpenAPI-openAPI\wuOpenAPI-Interface\src\main\java\com\atwj\wuopenapiinterface" />
+      <recent name="D:\ProgramData\XingQiuProgramData\API开放平台\wuOpenAPI-backend\wuOpenAPI-openAPI\wuOpenAPI-Interface\src\main\java\com\atwj\wuopenapiinterface\controller" />
+      <recent name="D:\ProgramData\XingQiuProgramData\API开放平台\wuOpenAPI-backend\wuOpenAPI-openAPI\wuOpenAPI-backend\src\main\java\com\atwj\openapi\service\innerImpl" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ProgramData\XingQiuProgramData\API开放平台\wuOpenAPI-backend\wuOpenAPI-openAPI\wuOpenAPI-backend\src\main\resources" />
+      <recent name="D:\ProgramData\XingQiuProgramData\API开放平台\wuOpenAPI-backend\wuOpenAPI-openAPI" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com" />
+      <recent name="com.atwj.openapi.mapper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atwj.apicommon.model.entity" />
+      <recent name="com.atwj.openapi.listenter" />
+      <recent name="com.atwj.gateway.rabbitmq" />
+      <recent name="com.atwj.gateway.config" />
+      <recent name="com.atwj.gateway.manager" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MainGatewayApplication">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atwj.wuopenapiinterface.Main" />
+      <module name="wuOpenAPI-Interface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atwj.wuopenapiinterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wuOpenAPI-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com" />
+      <option name="MAIN_CLASS_NAME" value="com.lTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="wuOpenAPI-backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atwj.openapi.MainApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="wuOpenAPI" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atwj.openapi.MainApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atwj.openapi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="wuOpenAPI-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atwj.gateway.MainGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainInterfaceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="wuOpenAPI-Interface" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atwj.wuopenapiinterface.MainInterfaceApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atwj.wuopenapiinterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MainInterfaceApplication" />
+        <item itemvalue="JUnit.lTest.test" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0729f3d9-0b71-42fa-aa61-14ea365363ac" name="Changes" comment="" />
+      <created>1690364116313</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690364116313</updated>
+      <workItem from="1690364117601" duration="1446000" />
+      <workItem from="1690368672005" duration="1947000" />
+      <workItem from="1690372733600" duration="5943000" />
+      <workItem from="1690462373153" duration="2577000" />
+      <workItem from="1690542195057" duration="1795000" />
+      <workItem from="1690590203718" duration="153000" />
+      <workItem from="1690590665221" duration="22000" />
+      <workItem from="1690590703839" duration="11000" />
+      <workItem from="1690591819324" duration="60000" />
+      <workItem from="1690591908632" duration="292000" />
+      <workItem from="1690592570542" duration="3222000" />
+      <workItem from="1690628367619" duration="6677000" />
+      <workItem from="1690635821971" duration="5141000" />
+      <workItem from="1690675982490" duration="1617000" />
+      <workItem from="1690709142426" duration="9787000" />
+      <workItem from="1690772128203" duration="1394000" />
+      <workItem from="1690848327265" duration="2523000" />
+      <workItem from="1690935339838" duration="4000" />
+      <workItem from="1690938692927" duration="4792000" />
+      <workItem from="1691047045003" duration="12000" />
+      <workItem from="1691054297013" duration="777000" />
+      <workItem from="1691069402160" duration="16000" />
+      <workItem from="1691070296991" duration="1214000" />
+      <workItem from="1691075819106" duration="97000" />
+      <workItem from="1691076048024" duration="1409000" />
+      <workItem from="1691108845794" duration="1183000" />
+      <workItem from="1691282880836" duration="2911000" />
+      <workItem from="1691286970733" duration="201000" />
+      <workItem from="1691287188819" duration="2954000" />
+      <workItem from="1691290172510" duration="15270000" />
+      <workItem from="1691317333549" duration="10229000" />
+      <workItem from="1691376479924" duration="994000" />
+      <workItem from="1691392633201" duration="49000" />
+      <workItem from="1691399051504" duration="592000" />
+      <workItem from="1691464540950" duration="221000" />
+      <workItem from="1691484602554" duration="2147000" />
+      <workItem from="1691491240849" duration="10315000" />
+      <workItem from="1691546357619" duration="12193000" />
+      <workItem from="1691578911111" duration="679000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

@@ -1,0 +1,35 @@
+server:
+  port: 8090
+spring:
+  cloud:
+    gateway:
+      default-filters:
+        - AddResponseHeader=source, wj
+      routes:
+        - id: api_route
+          uri: http://localhost:8123
+          predicates:
+            - Path=/api/**
+  redis:
+    host: localhost
+    database: 1
+    port: 6379
+    timeout: 50000
+logging:
+  level:
+    org:
+      springframework:
+        cloud:
+          gateway: trace
+dubbo:
+  application:
+    name: dubbo-provider
+    qosEnable: true
+    qosPort: 33333
+    qosAcceptForeignIp: false
+  protocol:
+    name: dubbo
+    port: -1
+  registry:
+    id: nacaos-registry
+    address: nacos://localhost:8848
